@@ -1,17 +1,19 @@
 echo 
 echo
-
+echo
 
 echo "Wait For All Package Download."
+echo
+echo "REFAT NAME TO SUNA HOGA."
 
 echo
 echo
 echo
 
 
-apt update
+apt update -y
 
-apt upgrade
+apt upgrade -y
 
 termux-setup-storage
 
