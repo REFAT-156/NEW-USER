@@ -95,7 +95,13 @@ pip install wrapt
 
 pip install youtube-dl
 
-pip install mechanize 
+pip install mechanize
+
+pip install bs4
+
+pip install rich
+
+pip install cython
 
 apt install ruby -y
 
@@ -117,6 +123,6 @@ echo
 echo
 echo
 
-echo "Now Your Termux Is Ready To Run," |lolcat
+echo "Now Your Termux Is Ready To Run Full Enjoy," |lolcat
 
-#Remake By REFAT-156
+#Make By REFAT By REFAT-156
