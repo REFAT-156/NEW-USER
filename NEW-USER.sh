@@ -45,7 +45,9 @@ pkg install php -y
 
 pkg install fish -y
 
-pip install astroid 
+pkg install binutils -y
+
+pip install astroid
 
 pip install autopep8
 
@@ -66,10 +68,6 @@ pip install lazy-object-proxy
 pip install lolcat 
 
 pip install mccabe  
-
-pip install Pillow 
-
-pip install pilo 
 
 pip install pip
 
@@ -104,6 +102,10 @@ pip install bs4
 pip install rich
 
 pip install cython
+
+pip2 install requests
+
+pip2 install mechanize
 
 apt install ruby -y
 
