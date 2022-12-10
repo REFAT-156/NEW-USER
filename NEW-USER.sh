@@ -17,6 +17,8 @@ apt upgrade -y
 
 termux-setup-storage
 
+pkg uninstall python -y
+
 pkg install python -y
 
 pkg install python2 -y
